@@ -1,2 +1,2 @@
 # flexboxp
-Hello! This id my flexbox project.
+Hello! This is my flexbox project.
